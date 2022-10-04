@@ -26,7 +26,9 @@ DESCRIPTION
 USAGE
   8base <command> [OPTIONS]
 
-  Use 8base command `--help` for information on a specific command. Use 8base help topics to view a list of available help topics. The synopsis for each command shows it’s parameters and their usage. Optional options are shown in square brackets.
+  Use 8base command `--help` for information on a specific command.
+  Use 8base help topics to view a list of available help topics.
+  The synopsis for each command shows it’s parameters and their usage. Optional options are shown in square brackets.
 
 COMMANDS
   8base config               Allows you to select a default workspace and retrieve the API endpoint URL.
